@@ -1,6 +1,9 @@
 # Crucible - Tradução para o Português (Brasil)
 Esse módulo aplica a tradução para o sistema Crucible.
 
+# ATENÇÃO
+**Essa tradução está muito rudimentar. Não adianta refinar ela enquanto o sistema está em desenvolvimento.**
+
 ## Sistema
 https://foundryvtt.com/packages/crucible
 
