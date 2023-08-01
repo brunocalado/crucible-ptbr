@@ -3,7 +3,7 @@
   "title": "Crucible - Tradução para Português (Brasil)",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema Crucible.</p><p>Obs. Esse módulo traduz somente os termos relacionados ao sistema Dungeon World. Esse módulo não traduz outras partes do FoundryVTT, como a interface principal.</p>",
   
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
